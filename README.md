@@ -5,7 +5,7 @@ CloudFlare WARP 一键管理脚本
 ## 一键脚本
 
 ```shell
-wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/warp.sh && bash warp.sh
+wget -N https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/warp-script/main/warp.sh && bash warp.sh
 ```
 
 ## 常见问题
